@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="verde">#00FF00</color>
+    <color name="rosso">#FF0000</color>
+    <color name="blu">#3333CC</color>
+    <color name="azzurro">#00CCFF</color>
+    <color name="giallo">#FFFF00</color>
+    <color name="arancione">#FF9900</color>
+    <color name="rosa">#FF99CC</color>
+    <color name="viola">#CC33FF</color>
+    
+</resources>
