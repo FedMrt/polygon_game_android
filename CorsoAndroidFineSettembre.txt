@@ -1,0 +1,14 @@
+Corso Android Settembre 2014
+
+Octavian (Ottimizzazione matematica, Java)
+Andrea 	 (Shouse, Java)
+Antonio  (Magneti Marelli, C,C++,Javascript)
+Fabio    (Magneti Marelli, C,C++, Java, Javascript)
+Francesco(S.Paolo, base java, php)
+Edoardo  (Ulixe, Java/J2EE)
+Alessia  (Java)
+Andrea   (TNT, Java)
+
+
+
+
