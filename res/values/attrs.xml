@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="it.pepo.circles_square.views.CircleView" >
-        <attr name="view_color" format="color"/>
-    </declare-styleable>
-</resources>
